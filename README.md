@@ -1,1 +1,1 @@
-# stunning-adventure
+A project to practice the CSS 'box model'
