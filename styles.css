@@ -4,6 +4,12 @@
     font-size: 40px;
 }
 
+.staircase-heading {
+    text-align: center;
+    color: red;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
 .box-one {
     border: 10px;
     border-color: darkgray;
