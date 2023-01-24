@@ -5,7 +5,7 @@
 }
 
 .box-one {
-    border: 10;
+    border: 10px;
     border-color: darkgray;
     border-style: solid;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -15,31 +15,34 @@
     width: 100px;
 }
 .box-two {
-    border: 10;
+    border: 10px;
     border-color: darkgray;
     border-style: solid;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    margin: 50px;
+    margin-top: 50px;
+    margin-left: 100px;
     padding: 10px;
     text-align: center;
     width: 100px;
 }
 .box-three {
-    border: 10;
+    border: 10px;
     border-color: darkgray;
     border-style: solid;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    margin: 50px;
+    margin-top: 50px;
+    margin-left: 150px;
     padding: 10px;
     text-align: center;
     width: 100px;
 }
 .box-four {
-    border: 10;
+    border: 10px;
     border-color: darkgray;
     border-style: solid;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    margin: 50px;
+    margin-top: 50px;
+    margin-left: 200px;
     padding: 10px;
     text-align: center;
     width: 100px;
