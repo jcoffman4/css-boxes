@@ -14,3 +14,33 @@
     text-align: center;
     width: 100px;
 }
+.box-two {
+    border: 10;
+    border-color: darkgray;
+    border-style: solid;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 50px;
+    padding: 10px;
+    text-align: center;
+    width: 100px;
+}
+.box-three {
+    border: 10;
+    border-color: darkgray;
+    border-style: solid;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 50px;
+    padding: 10px;
+    text-align: center;
+    width: 100px;
+}
+.box-four {
+    border: 10;
+    border-color: darkgray;
+    border-style: solid;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 50px;
+    padding: 10px;
+    text-align: center;
+    width: 100px;
+}
