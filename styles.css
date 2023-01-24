@@ -1,15 +1,16 @@
 * {
     background-color: black;
-    color: white;
+    color: lightslategray;
+    font-size: 40px;
 }
 
 .box-one {
-    width: 400;
-    border: 10px;
-    border-color: white;
+    border: 10;
+    border-color: darkgray;
     border-style: solid;
-    margin-right:50px;
-    padding: 50px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    
+    margin: 50px;
+    padding: 10px;
+    text-align: center;
+    width: 100px;
 }
