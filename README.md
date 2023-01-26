@@ -1,1 +1,1 @@
-A project to practice the CSS 'box model'
+A project to practice the CSS 'box model'. Also used to experiment with CSS Flexbox tool.
