@@ -1,55 +1,56 @@
 * {
     background-color: black;
-    color: lightslategray;
     font-size: 40px;
 }
 
-.staircase-heading {
+.box-heading {
     text-align: center;
     color: red;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
 }
 
 .box-one {
+    text-align: center;
+    color: blue;
     border: 10px;
     border-color: darkgray;
     border-style: solid;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    margin: 50px;
-    padding: 10px;
-    text-align: center;
-    width: 100px;
+    margin: 25px;
+    flex: 1;
 }
 .box-two {
+    text-align: center;
+    color: blue;
     border: 10px;
     border-color: darkgray;
     border-style: solid;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    margin-top: 50px;
-    margin-left: 150px;
-    padding: 10px;
-    text-align: center;
-    width: 100px;
+    margin: 25px;
+    flex: 1;
 }
 .box-three {
+    text-align: center;
+    color: blue;
     border: 10px;
     border-color: darkgray;
     border-style: solid;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    margin-top: 50px;
-    margin-left: 250px;
-    padding: 10px;
-    text-align: center;
-    width: 100px;
+    margin: 25px;
+    flex: 1;
+
 }
 .box-four {
+    text-align: center;
+    color: blue;
     border: 10px;
     border-color: darkgray;
     border-style: solid;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    margin-top: 50px;
-    margin-left: 350px;
-    padding: 10px;
-    text-align: center;
-    width: 100px;
+    margin: 25px;
+    flex: 1;
+}
+
+.flex-container {
+    display: flex;
 }
